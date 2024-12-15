@@ -29,7 +29,7 @@ Aşağıda, sistemin farklı bölümlerine ait ekran görüntülerini bulabilirs
    ![Oda Listesi](https://github.com/Ali-RzA7/Otel-Reservation/blob/main/Images/rooms.png)
 
 4. **Rezervasyon Sayfası**: Kullanıcıların oda rezervasyonu yapabildiği sayfa.  
-   ![Rezervasyon Sayfası](https://github.com/Ali-RzA7/Otel-Reservation/blob/main/Images/reservation.png)
+   ![Rezervasyon Sayfası](https://github.com/Ali-RzA7/Otel-Reservation/blob/main/Images/rezervation.png)
 
 5. **Müşteri Ekleme Sayfası**: Yeni müşteri ekleme işlemlerini gerçekleştiren sayfa.  
    ![Müşteri Ekleme Sayfası](https://github.com/Ali-RzA7/Otel-Reservation/blob/main/Images/adding.png)
